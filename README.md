@@ -32,6 +32,7 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
   <img src="https://img.shields.io/badge/Multiplayer-2563EB?style=for-the-badge" alt="Multiplayer" />
   <img src="https://img.shields.io/badge/Mobile_Games-16A34A?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Games" />
   <img src="https://img.shields.io/badge/3D_Games-F97316?style=for-the-badge" alt="3D Games" />
+  <img src="https://img.shields.io/badge/2D_Games-7C3AED?style=for-the-badge" alt="2D Games" />
 </p>
 
 **Also working with:** UI / UX · level design · optimization · animation & audio integration · procedural spawning · touch, swipe & gesture controls
