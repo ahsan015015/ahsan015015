@@ -57,12 +57,20 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 ## 🏢 Organizations
 
-<p align="center">
-  <em>No public GitHub organizations yet — org badges will appear here as I join teams.</em>
-</p>
-<!-- To show an organization, add a badge like:
-<a href="https://github.com/ORG_NAME"><img src="https://github.com/ORG_NAME.png?size=50" alt="ORG_NAME" /></a>
--->
+<table>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <a href="https://github.com/Visiontillion">
+        <img src="https://github.com/Visiontillion.png?size=90" width="90" height="90" alt="Visiontillion logo" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/Visiontillion"><b>Visiontillion</b></a><br/>
+      📍 Saudi Arabia &nbsp;·&nbsp; 👥 5 followers &nbsp;·&nbsp; 🌐 <a href="https://www.visiontillion.com">visiontillion.com</a><br/>
+      <sub>Where I currently work as a Unity Game Developer.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Selected releases
 
