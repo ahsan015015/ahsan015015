@@ -53,12 +53,22 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 ## 🏢 Organizations
 
-<p align="center">
-  <a href="https://github.com/Visiontillion">
-    <img src="https://images.weserv.nl/?url=github.com/Visiontillion.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Visiontillion" /><br/>
-    <b>Visiontillion</b>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/Visiontillion">
+        <img src="https://images.weserv.nl/?url=github.com/Visiontillion.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Visiontillion" /><br/>
+        <b>Visiontillion</b>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Gamalith-Studio">
+        <img src="https://images.weserv.nl/?url=github.com/Gamalith-Studio.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Gamalith Studio" /><br/>
+        <b>Gamalith Studio</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Selected releases
 
