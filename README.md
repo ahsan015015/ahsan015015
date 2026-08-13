@@ -53,7 +53,7 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 ## 🏢 Organizations
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/Visiontillion">
