@@ -37,6 +37,41 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 **Also working with:** UI / UX · level design · optimization · animation & audio integration · procedural spawning · touch, swipe & gesture controls
 
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan015015&show_icons=true&bg_color=0f172a&title_color=ffffff&text_color=e2e8f0&icon_color=22d3ee&border_color=334155&hide_border=false" alt="Ahsan's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan015015&layout=compact&bg_color=0f172a&title_color=ffffff&text_color=e2e8f0&border_color=334155" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahsan015015&background=0f172a&border=334155&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=e2e8f0&date=e2e8f0" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsan015015&theme=tokyo-night&bg_color=0f172a&color=e2e8f0&line=22d3ee&point=ffffff&hide_border=true" alt="Ahsan's Contribution Graph" />
+</p>
+
+> Live stats are pulled straight from GitHub and update automatically.
+
+## 🏢 Organizations
+
+<table>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <a href="https://github.com/Visiontillion">
+        <img src="https://github.com/Visiontillion.png?size=90" width="90" height="90" alt="Visiontillion logo" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/Visiontillion"><b>Visiontillion</b></a><br/>
+      📍 Saudi Arabia &nbsp;·&nbsp; 👥 5 followers &nbsp;·&nbsp; 🌐 <a href="https://www.visiontillion.com">visiontillion.com</a><br/>
+      <sub>Where I currently work as a Unity Game Developer.</sub>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Selected releases
 
 | Game | What I built | Link |
