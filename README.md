@@ -49,10 +49,6 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
   <img src="https://streak-stats.demolab.com/?user=ahsan015015&background=0f172a&border=334155&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=e2e8f0&date=e2e8f0" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsan015015&theme=tokyo-night&bg_color=0f172a&color=e2e8f0&line=22d3ee&point=ffffff&hide_border=true" alt="Ahsan's Contribution Graph" />
-</p>
-
 > Live stats are pulled straight from GitHub and update automatically.
 
 ## 🏢 Organizations
