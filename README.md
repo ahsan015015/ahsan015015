@@ -55,7 +55,7 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 <p align="center">
   <a href="https://github.com/Visiontillion">
-    <img src="https://github.com/Visiontillion.png?size=90" width="90" height="90" alt="Visiontillion" /><br/>
+    <img src="https://images.weserv.nl/?url=github.com/Visiontillion.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Visiontillion" /><br/>
     <b>Visiontillion</b>
   </a>
 </p>
