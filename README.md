@@ -53,20 +53,12 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 ## 🏢 Organizations
 
-<table>
-  <tr>
-    <td width="90" align="center" valign="middle">
-      <a href="https://github.com/Visiontillion">
-        <img src="https://github.com/Visiontillion.png?size=90" width="90" height="90" alt="Visiontillion logo" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="https://github.com/Visiontillion"><b>Visiontillion</b></a><br/>
-      📍 Saudi Arabia &nbsp;·&nbsp; 👥 5 followers &nbsp;·&nbsp; 🌐 <a href="https://www.visiontillion.com">visiontillion.com</a><br/>
-      <sub>Where I currently work as a Unity Game Developer.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Visiontillion">
+    <img src="https://github.com/Visiontillion.png?size=90" width="90" height="90" alt="Visiontillion" /><br/>
+    <b>Visiontillion</b>
+  </a>
+</p>
 
 ## 🚀 Selected releases
 
