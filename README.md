@@ -53,22 +53,17 @@ I'm a **Unity Game Developer** based in **Dhaka, Bangladesh**, focused on buildi
 
 ## 🏢 Organizations
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/Visiontillion">
-        <img src="https://images.weserv.nl/?url=github.com/Visiontillion.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Visiontillion" /><br/>
-        <b>Visiontillion</b>
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/Gamalith-Studio">
-        <img src="https://images.weserv.nl/?url=github.com/Gamalith-Studio.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Gamalith Studio" /><br/>
-        <b>Gamalith Studio</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Visiontillion">
+  <img src="https://images.weserv.nl/?url=github.com/Visiontillion.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Visiontillion" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Gamalith-Studio">
+  <img src="https://images.weserv.nl/?url=github.com/Gamalith-Studio.png%3Fsize%3D180&w=180&h=180&fit=cover&mask=circle" width="90" height="90" alt="Gamalith Studio" />
+</a>
+<br/>
+<a href="https://github.com/Visiontillion"><b>Visiontillion</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Gamalith-Studio"><b>Gamalith Studio</b></a>
 
 ## 🚀 Selected releases
 
